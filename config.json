@@ -1,7 +1,7 @@
 {
 	"ip":"WebWorld.aternos.me",
 	"port":15379,
-	"name": "afkbot1",
+	"name": "botboy",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
